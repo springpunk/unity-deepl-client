@@ -1,5 +1,5 @@
 {
-    "name": "unity-deepl-client",
+    "name": "net.springpunk.unity-deepl-client",
     "version": "1.0.0",
     "description": "Simple DeepL API client for unity",
     "displayName": "DeepL API Client",
