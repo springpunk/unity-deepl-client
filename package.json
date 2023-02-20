@@ -1,0 +1,13 @@
+{
+    "name": "localized-text",
+    "version": "1.0.1",
+    "description": "A simple localization system that uses DeepL Translation",
+    "displayName": "Localized Text + DeepL",
+    "unity": "2021.1",
+    "author": {
+        "name": "Pietro Moroni",
+        "email": "pietro.g.moroni@gmail.com",
+        "url": "https://github.com/itsPeetah"
+    },
+    "hideInEditor": false
+}
