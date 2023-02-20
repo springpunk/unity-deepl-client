@@ -4,8 +4,9 @@ DeepL API Client for Unity
 
 # Notes:
 
-Currently **only supports syncronous API communication**, so it's better used within the editor.
-I'm working on asyncronous requests with callbacks.
+- Currently **only supports syncronous API communication**, so it's better used within the editor.
+  I'm working on asyncronous requests with callbacks.
+- I have also decided not to throw errors should the request fail, but this may change in future versions (I'll try to maintain backward-compatibility for at least a couple of updates)
 
 # How to install (using the Unity Package Manager)
 
