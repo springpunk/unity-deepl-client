@@ -4,12 +4,15 @@ DeepL API Client for Unity
 
 # Notes:
 
-Currently `only supports syncronous API communication`, so it's better used within the editor.
+Currently **only supports syncronous API communication**, so it's better used within the editor.
 I'm working on asyncronous requests with callbacks.
 
-# How to install
+# How to install (using the Unity Package Manager)
 
-coming soon
+- Click Window > Package Manager
+- Press the "+" button in the top left corner
+- Select "Add package from git URL..."
+- Paste the git url for this repository: `https://github.com/springpunk/unity-deepl-client.git`
 
 # Example usage
 
