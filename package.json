@@ -1,13 +1,13 @@
 {
-    "name": "localized-text",
-    "version": "1.0.1",
-    "description": "A simple localization system that uses DeepL Translation",
-    "displayName": "Localized Text + DeepL",
+    "name": "unity-deepl-client",
+    "version": "1.0.0",
+    "description": "Simple DeepL API client for unity",
+    "displayName": "DeepL API Client",
     "unity": "2021.1",
     "author": {
-        "name": "Pietro Moroni",
+        "name": "Pietro Moroni @ Springpunk",
         "email": "pietro.g.moroni@gmail.com",
-        "url": "https://github.com/itsPeetah"
+        "url": "https://github.com/springpunk"
     },
-    "hideInEditor": false
+    "hideInEditor": true
 }
